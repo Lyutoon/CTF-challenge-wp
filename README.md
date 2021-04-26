@@ -1,2 +1,2 @@
-# My-own-CTF-challenge-wp
-Collect my own implementions of some CTF challenge
+# My own implementions in CTF competitions
+My own implementions may not be so perfect so for reference only.
